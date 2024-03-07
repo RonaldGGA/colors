@@ -42,7 +42,7 @@
 
    }
 
-@media screen and (max-wdith:800px){
+@media screen and (max-width:800px){
   .app__colorshow h1{
     font-size:2rem;
    }
