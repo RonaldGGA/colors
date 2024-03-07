@@ -39,4 +39,11 @@
 .app__colorshow h1{
    font-size:3.5rem;
    color:white;
+
+   }
+
+@media screen and (max-wdith:800px){
+  .app__colorshow h1{
+    font-size:2rem;
+   }
 }
