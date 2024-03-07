@@ -4,7 +4,6 @@ import "./App.css";
 function App() {
   const [color, setColor] = useState<string>("#7fffd4");
   const lettersNumbers: string = "abcdef0123456789";
-  const numbersString: string = "0123456789";
   const handleClick = (type: string) => {
     if (type == "HEX") {
       let hex: string = "#";
