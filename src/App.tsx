@@ -32,7 +32,7 @@ function App() {
           hsl += number + " ";
           number = "";
         } else if (count == 1) {
-          hsl += number + " ";
+          hsl += number + "%";
           number = "";
         } else if (count == 2) {
           hsl += number + "%";
